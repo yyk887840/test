@@ -3,4 +3,5 @@
 int main()
 {
 printf("Hello World!\n");
-system("pause");
+系统（ “暂停”）;
+//请用英文看，否则会出错
